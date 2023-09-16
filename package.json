@@ -1,0 +1,19 @@
+{
+  "name": "comparadorprecos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tinkoff/invest-openapi-js-sdk": "github:catsaredoomed/invest-openapi-js-sdk",
+    "selenium-webdriver": "^4.12.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "joaorafaeldp"
+  },
+  "description": ""
+}
